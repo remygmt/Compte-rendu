@@ -6,7 +6,7 @@ DEPOT LOCAL :
 
 - Créez un nouveau dépôt local, ajoutez des fichiers et faites quelques modifications+commits ; affichez l'état du dépôt à chaque étape.
 
-![1](images\depot local\1.png)
+![1](images\depot%20local\1.png)
 
 On commence par créer un dossier caché .git avec la commande "git init" pour pour pouvoir tracer les fichiers que l'on va versionner. On va utiliser la commande "git init" pour suivre un fichier. Ici par example le ficher texte.txt. Notez que le ficher code.html reste "untraked", non-suivi.
 
